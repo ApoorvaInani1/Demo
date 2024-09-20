@@ -1,4 +1,4 @@
 # This is my first Git project
-Author-Apoorva Inani
+Author-Apoorva Inani, bhavani 
 <br/>
 project-1
